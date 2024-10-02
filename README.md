@@ -1,1 +1,1 @@
-# lock-home
+# LOCK-HOME-1.0
