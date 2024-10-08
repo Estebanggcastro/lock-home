@@ -84,6 +84,88 @@ header .textos-header{
 
 /*Contenedor de texto*/
 
+.primer-contenedor-e1{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.segundo-contenedor-e1{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tercer-contenedor-e1{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.cuarto-contenedor-e1{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.contenedor-seguridad-e1{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.contenedor-comodidad-e1{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.tercer-contenedor-e1{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.tercer-contenedor-e1{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+
+
 #imagenquees{
     width: 550px;
     height: 180px;
